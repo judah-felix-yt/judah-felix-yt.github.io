@@ -33,7 +33,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/judah-felix-fun-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/circle-cropped-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
